@@ -1,6 +1,6 @@
  # STAIR-CASE-WIRING
-### Name:ANUVIND KRISHNA.K
-### Reg.no: 212223080004
+### Name: ASHOKKUMAR A
+### Reg.no: 212223080006
 AIM
 To control the status of the given lamp by using two – way switches.
 
